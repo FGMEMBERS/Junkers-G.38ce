@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <PropertyList include="g38-jsbsim-cnf.xml"> -->
+<PropertyList include="g38-yasim-cnf.xml">
+
+  <sim>
+    <description>Junkers G.38ce (YASim)</description>
+    <author>BARANGER Emmanuel (3D/FDM)</author>
+  </sim>
+
+</PropertyList>
+
