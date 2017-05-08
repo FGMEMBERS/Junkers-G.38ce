@@ -6,6 +6,22 @@
   <sim>
     <description>Junkers G.38ce (YASim)</description>
     <author>BARANGER Emmanuel (3D/FDM)</author>
+
+    <tags>
+      <tag>junkers</tag>
+      <tag>high-wing</tag>
+      <tag>tail-dragger</tag>
+      <tag>fixed-gear</tag>
+      <tag>propeller</tag>
+      <tag>four-engine</tag>
+      <tag>piston</tag>
+      <tag>transport</tag>
+      <tag>1920s</tag>
+      <tag>1930s</tag>
+      <tag>ww2</tag>
+    </tags>
+     
+
   </sim>
 
 </PropertyList>
